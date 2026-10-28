@@ -1,3 +1,4 @@
+#не сам, в торопях по быстрому делал
 from django.db import IntegrityError, transaction
 from django.db.models import Count
 from django.utils import timezone
